@@ -3,7 +3,10 @@ package data;
 import java.util.ArrayList;
 import util.MyToys;
 
-
+/**
+ *
+ * @author truongletuankiet <truongletuankiet.longan@gmail.com>
+ */
 public class Menu {
     private String menuTitle;
     private ArrayList<String> optionList = new ArrayList();
